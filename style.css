@@ -1,0 +1,26 @@
+#output 
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+    width: 60%;
+}
+
+.login_div1 {
+float: none;
+}
+
+.login_div2 {
+float: none;
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+input {
+    width: 60%;
+}
